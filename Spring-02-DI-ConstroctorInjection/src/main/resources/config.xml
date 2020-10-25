@@ -3,8 +3,7 @@
        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
        xsi:schemaLocation="http://www.springframework.org/schema/beans
         https://www.springframework.org/schema/beans/spring-beans.xsd">
-    <bean id="fullTimeMentor" class="services.FullTimeMentor"></bean>
-    <bean id="partTimeMentor" class="services.PartTimeMentor"></bean>
-    <bean id="huseyin" class="services.PartTimeMentor"></bean>
-    <bean id="senior" class="services.SeniorMentor"></bean>
+
+    <bean id="java" class="com.cybertek.services.Java"></bean>
+    <bean id="selenium" class="com.cybertek.services.Selenium"></bean>
 </beans>

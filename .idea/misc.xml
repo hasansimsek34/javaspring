@@ -4,7 +4,13 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/Spring-01-SpringContainer/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring-02-DI-ConstroctorInjection/pom.xml" />
       </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/Spring-01-SpringContainer/Spring-05-JavaAnnotations-Component/pom.xml" />
+      </set>
     </option>
   </component>
   <component name="ProjectRootManager">
