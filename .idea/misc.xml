@@ -10,6 +10,7 @@
         <option value="$PROJECT_DIR$/Spring-04-BeanLifeCycle/pom.xml" />
         <option value="$PROJECT_DIR$/Spring-05-JavaAnnototations-Component/pom.xml" />
         <option value="$PROJECT_DIR$/Spring-05-JavaAnnotations-Autowired/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring-05-JavaAnnotations-Qualifier/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
