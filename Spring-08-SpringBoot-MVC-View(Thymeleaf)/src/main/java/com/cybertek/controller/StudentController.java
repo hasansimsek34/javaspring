@@ -30,6 +30,9 @@ public class StudentController {
         numbers.add(4);
         numbers.add(5);
         numbers.add(9);
+        numbers.add(19);
+        numbers.add(91);
+        numbers.add(911);
         model.addAttribute("numbers",numbers);
 
         LocalDate birthday=LocalDate.now().minusYears(41);

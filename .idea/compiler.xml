@@ -8,6 +8,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Spring-05-JavaAnnotations-Autowired" />
+        <module name="Spring-08-SpringBoot-MVC-Form" />
         <module name="Spring-07-SpringBoot-Demo" />
         <module name="Spring-05-JavaAnnototations-Component" />
         <module name="Spring-06-JavaCode-Configuration" />
@@ -38,6 +39,7 @@
       <module name="Spring-06-JavaCode-PostConstruct-PreDestroy" target="6" />
       <module name="Spring-07-SpringBoot-Demo" target="1.8" />
       <module name="Spring-08-SpringBoot-MVC-Controller" target="1.8" />
+      <module name="Spring-08-SpringBoot-MVC-Form" target="1.8" />
       <module name="Spring-08-SpringBoot-MVC-View(Thymeleaf)" target="1.8" />
     </bytecodeTargetLevel>
   </component>
@@ -45,6 +47,7 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="Spring-07-SpringBoot-Demo" options="-parameters" />
       <module name="Spring-08-SpringBoot-MVC-Controller" options="-parameters" />
+      <module name="Spring-08-SpringBoot-MVC-Form" options="-parameters" />
       <module name="Spring-08-SpringBoot-MVC-View(Thymeleaf)" options="-parameters" />
     </option>
   </component>

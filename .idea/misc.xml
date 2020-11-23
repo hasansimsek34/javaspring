@@ -17,6 +17,7 @@
         <option value="$PROJECT_DIR$/Spring-07-SpringBoot-Demo/pom.xml" />
         <option value="$PROJECT_DIR$/Spring-08-SpringBoot-MVC-Controller/pom.xml" />
         <option value="$PROJECT_DIR$/Spring-08-SpringBoot-MVC-View(Thymeleaf)/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring-08-SpringBoot-MVC-Form/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
